@@ -1,4 +1,4 @@
-*Diagnos 1
+*Instruktion!
 
 Du får inte röra html-koden alls.
 
