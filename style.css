@@ -1,0 +1,73 @@
+/*-- REGLER --*/
+/*Du får inte skapa nya css-deklaration.*/
+/*Du får inte röra html-koden alls*/
+/*Du ska jobba med de som finns nedan. De räcker.*/
+/*De saker som jag lämnat åt dig kan du använda om du vill, eller låta bli*/
+
+
+/*-- stora grejer, hela sidan --*/
+body {
+
+}
+div {
+    /*se till att width, padding, border ingår i totala bredden. Dock ej margin*/
+    /*behåll raden nedan eller ta bort den - du bestämmer*/
+    box-sizing: border-box;
+}
+h1, h2, h3 {
+
+}
+.wrapper {
+    width: 1200px;
+}
+.section {
+
+}
+
+/*-- knappar och sånt --*/
+.btn {
+
+}
+.btn-large{
+
+}
+/*-- loggan --*/
+.header {
+
+}
+
+
+/*-- menyn --*/
+.menu {
+
+}
+.menu-link {
+
+}
+.active {
+
+}
+
+
+/*-- splash --*/
+.splash {
+
+}
+.feat-txt {
+
+}
+.feat-img {
+    
+}
+
+
+/*-- featured --*/
+.feat {
+
+}
+.feat-box {
+    
+}
+.feat-box img {
+    
+}
